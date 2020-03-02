@@ -1,0 +1,16 @@
+{
+  "name": "Album",
+  "version": "1.0.0",
+  "description": "#前端开发新生|模仿功能效果|积累经验#  这是一个防微信朋友圈图片详情手动轮播",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "XieWi",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^3.4.2",
+    "style-loader": "^1.1.3"
+  }
+}
